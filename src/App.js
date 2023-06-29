@@ -10,7 +10,7 @@ import {
   About,
   Products,
   PrivateRoute,
-  AuthWrapper,
+  AuthWrapper
 } from './pages'
 function App() {
   return (
